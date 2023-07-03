@@ -31,28 +31,25 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Brick Breaker Game",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "In this game there is a ball that bounces of a platform to break a brick wall and the player has to keep the ball going by making sure the paddle is always there to bounce off the ball back. The game will have three layers of bricks, and each layer of brick will have a different hit capacity, which means some bricks will break in a single hit, some will require a double hit and some will require three hits.",
+    url: "https:",
+    
   },
   {
-    title: "Web Development for Beginners",
+    title: "E-Commerce website using wordpress",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This project is about online shopping or e-shopping is a form of electronic commerce which allows consumers to directly buy goods or services from a seller over the internet using a web browser.",
+    url: "https:",
+    
   },
   {
-    title: "My Resume Site",
+    title: "Shop Management System",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This Shop Management System offers a comprehensive set of features, including inventory management, restocking products, category management, and transaction management. Administrators have full control over the system, including managing products, stocks, and categories. Cashiers, on the other hand, have limited access and can manage transactions and view sales reports.The system incorporates a point-of-sale feature, allowing cashiers to process transactions and generate printable receipts. It also provides date-wise sales reports for better analysis and decision-making. The front-end of the application is developed using PHP, HTML, CSS, JavaScript, jQuery, Ajax, and Bootstrap, offering a user-friendly interface and responsive design.",
+    url: "https:",
+    
   },
 ];
 
